@@ -57,7 +57,7 @@ You can easily customize the project by:
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/Saboo24/portfolio-website.git
+[git clone https://github.com/Saboo24/portfolio-website.git](https://github.com/Abhijit-cmd/abhijit-portfolio.git)
 ```
 ### 2️⃣ Open the Folde
 ```bash
