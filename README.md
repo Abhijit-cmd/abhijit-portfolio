@@ -77,7 +77,7 @@ You’ll see your personal portfolio running locally
 
 ---
 
-Made with ❤️ by **Amine Hamzaoui**
+Made with ❤️ by **DEMO**
 
 
 
