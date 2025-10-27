@@ -71,8 +71,7 @@ You’ll see your personal portfolio running locally
 
 ## 📬 Contact
 
-- Email: aminehamzaoui1925@gmail.com   
-- Location: Boumerdès, Algeria  
+- Email: Abhijitdeb063@gmail.com   
 - LinkedIn: [LinkedIn](www.linkedin.com/in](https://www.linkedin.com/in/abhi-deb))  
 - GitHub: [GitHub](https://github.com/Abhijit-cmd)  
 
