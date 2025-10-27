@@ -1,4 +1,4 @@
-![Logo](protfile/images/pf.png)
+![Logo](images/pf.png)
 
 # 🌐 Modern Portfolio Website
 
@@ -57,7 +57,7 @@ You can easily customize the project by:
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/Saboo24/portfolio-website.git
+git clone https://github.com/Saboo24/portfolio-website.git](https://github.com/Abhijit-cmd/abhijit-portfolio.git
 ```
 ### 2️⃣ Open the Folde
 ```bash
@@ -71,15 +71,13 @@ You’ll see your personal portfolio running locally
 
 ## 📬 Contact
 
-- Email: aminehamzaoui1925@gmail.com   
-- Location: Boumerdès, Algeria  
-- LinkedIn: [LinkedIn](www.linkedin.com/in/mohamed-amine-hamzaoui-a2453a35b)  
-- GitHub: [GitHub](https://github.com/Saboo24)  
-- Instagram: [Instagram](https://www.instagram.com/a__m.i.n__e/?utm_source=ig_web_button_share_sheet)
+- Email: Abhijitdeb063@gmail.com   
+- LinkedIn: [LinkedIn](www.linkedin.com/in](https://www.linkedin.com/in/abhi-deb))  
+- GitHub: [GitHub](https://github.com/Abhijit-cmd)  
 
 ---
 
-Made with ❤️ by **Amine Hamzaoui**
+Made with ❤️ by **DEMO**
 
 
 
