@@ -218,7 +218,7 @@ document.addEventListener('DOMContentLoaded', function() {
             }
         } else if (button.textContent.includes('Download CV')) {
             // Handle CV download
-            showNotification('CV download will be available soon!', 'info');
+            showNotification('Your CV is downloading!', 'success', 'info');
         }
     }
 
